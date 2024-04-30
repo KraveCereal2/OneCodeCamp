@@ -1,0 +1,8 @@
+Configuring git
+git config --global user.name "Username"
+
+git config --global user.email "youremail@gmail.com"
+
+Initialize a Repository
+git init
+

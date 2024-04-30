@@ -1,0 +1,33 @@
+mkdir: Make Directory
+mkdir [directory_name]
+
+rmdir: Remove Directory
+rmdir [directory_name]
+
+pwd: Print Working Directory
+pwd
+
+ls: List Command
+ls
+
+cd: Change directory
+cd[directory_path]
+
+cd ..: Go Back One Directory
+cd ..
+
+touch: Create file
+touch [file_name]
+
+rm: Delete file
+rm [file_name]
+
+cp: Copy file
+cp [file_name] [destination_path]
+
+mv: Move file
+mv [file_name] [destination_path]
+
+mv: renaming files
+mv [file_name] [new_file_name]
+
