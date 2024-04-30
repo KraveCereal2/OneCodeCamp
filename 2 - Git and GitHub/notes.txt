@@ -6,3 +6,22 @@ git config --global user.email "youremail@gmail.com"
 Initialize a Repository
 git init
 
+git add .
+Add files to the staging area
+
+git status
+
+
+git commit -m "description"
+Create a commit
+
+git log
+
+Create a branch 
+git branch [branch-name]
+
+List all branches
+git branch -a
+
+Switch branches
+git checkout [branch-name]
